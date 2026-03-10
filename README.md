@@ -13,7 +13,7 @@
 
 💡 Passionate about building **AI-driven applications, scalable web systems, and solving real-world problems with data**
 
-💼 **Software Engineer Intern — Yuga Yatra Retail**
+💼 **Software Engineer Intern — Yuga Yatra Retail,Nyeras Edutech**
 
 🏅 **JEE Mains — 98 Percentile**
 
