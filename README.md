@@ -383,22 +383,6 @@ Contributing to real-world open-source engineering, including work around **Spri
 | 🔵 Google / Coursera | **Crash Course on Python** | 2026 |
 | 🟩 HackerRank | **SQL — Intermediate** | 2025 |
 
----
-
-# 📊 GITHUB COMMAND CENTER
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohannamburu18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohannamburu18&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohannamburu18&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohannamburu18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</p>
 
 ---
 
@@ -444,13 +428,6 @@ Contributing to real-world open-source engineering, including work around **Spri
                  │
                  ▼
               REPEAT ♻️
-```
-
-### Every green square is another experiment, fix, feature or lesson.
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohannamburu18&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
