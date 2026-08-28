@@ -235,6 +235,19 @@ I don't want to just collect technologies.
 
 ---
 
+## 🎯 Current Focus
+
+```
+☁️  GCP & Data Engineering      ████████████████░░░░   88%
+📊  PySpark & BigQuery          ███████████████░░░░░   82%
+🤖  GenAI / RAG / LLMs          ████████████████░░░░   85%
+⚙️  FastAPI / Backend Systems   ███████████████░░░░░   80%
+🐍  Python Automation           ████████████████░░░░   84%
+🧠  System Design & DSA         ███████████████░░░░░   78%
+```
+
+---
+
 ## 🚀 SYSTEMS I'VE BUILT
 
 ### 🌾 Smart Crop Advisor
@@ -367,20 +380,7 @@ A full-stack EV charging discovery application with authentication, station APIs
 
 ---
 
-## 🎯 Current Focus
-
-```
-☁️  GCP & Data Engineering      ████████████████░░░░   88%
-📊  PySpark & BigQuery          ███████████████░░░░░   82%
-🤖  GenAI / RAG / LLMs          ████████████████░░░░   85%
-⚙️  FastAPI / Backend Systems   ███████████████░░░░░   80%
-🐍  Python Automation           ████████████████░░░░   84%
-🧠  System Design & DSA         ███████████████░░░░░   78%
-```
-
----
-
-## 📊 GitHub Analytics — Contribution Graph
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohannamburu18&theme=tokyo-night&hide_border=false&area=true&custom_title=GitHub%20Contribution%20Graph" width="95%" />
@@ -392,21 +392,7 @@ A full-stack EV charging discovery application with authentication, station APIs
 
 ---
 
-## 🧊 3D Contribution Calendar
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohannamburu18/mohannamburu18/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="90%" onerror="this.src='https://raw.githubusercontent.com/mohannamburu18/mohannamburu18/main/profile-3d-contrib/profile-green-animate.svg'" />
-</p>
-
-> *This 3D calendar is generated via [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — after you push this README, GitHub Actions will auto-generate your own 3D SVG in `profile-3d-contrib/` folder. For now it shows your live data.*
-
-## 🐍 Watch the Snake Eat My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohannamburu18/mohannamburu18/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="90%" onerror="this.src='https://raw.githubusercontent.com/mohannamburu18/mohannamburu18/output/github-contribution-grid-snake.svg'" />
-</p>
-
----
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
