@@ -12,11 +12,16 @@
   <a href="https://github.com/mohannamburu18"><img src="https://img.shields.io/badge/GitHub-mohannamburu18-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/mohan-krishna-namburu/"><img src="https://img.shields.io/badge/LinkedIn-Mohan%20Krishna%20Namburu-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:mohannamburu1343@gmail.com"><img src="https://img.shields.io/badge/Email-mohannamburu1343%40gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mohannamburu18&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
 </p>
 
 ---
 
-# `> whoami`
+## `> whoami`
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```text
 name: Mohan Krishna Namburu
@@ -48,9 +53,27 @@ My work spans the entire path:
 I don't want to just collect technologies.  
 **I want to use them to build useful systems.**
 
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="./assets/mohan_github_style.jpg" width="100%" style="border-radius:50%; border: 3px solid #36BCF7;" alt="Mohan Krishna Namburu"/>
+
+<br/>
+
+**Mohan Namburu**<br/>
+<sub>AI • Data • Full-Stack • Cloud</sub>
+
+<p>
+<img src="https://img.shields.io/badge/Open%20to-Collab-36BCF7?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
+
 ---
 
-# ⚡ IMPACT AT A GLANCE
+## ⚡ IMPACT AT A GLANCE
 
 | 🚀 Engineering | 🧠 Problem Solving | 🏆 Achievements | 🌍 Open Source / Community |
 |---|---|---|---|
@@ -61,9 +84,9 @@ I don't want to just collect technologies.
 
 ---
 
-# 🧬 TECHNOLOGY DNA
+## 🧬 TECHNOLOGY DNA
 
-## 💻 LANGUAGES
+### 💻 LANGUAGES
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -76,7 +99,7 @@ I don't want to just collect technologies.
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-## 🎨 FRONTEND ENGINEERING
+### 🎨 FRONTEND ENGINEERING
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -87,7 +110,7 @@ I don't want to just collect technologies.
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
-## ⚙️ BACKEND ENGINEERING
+### ⚙️ BACKEND ENGINEERING
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -98,7 +121,7 @@ I don't want to just collect technologies.
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-## 🗄️ DATABASES & DATA SYSTEMS
+### 🗄️ DATABASES & DATA SYSTEMS
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -110,7 +133,7 @@ I don't want to just collect technologies.
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
 </p>
 
-## ☁️ CLOUD ENGINEERING — GCP
+### ☁️ CLOUD ENGINEERING — GCP
 
 <p>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -125,7 +148,7 @@ I don't want to just collect technologies.
 <img src="https://img.shields.io/badge/IAM-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-## 📊 DATA ENGINEERING & BIG DATA
+### 📊 DATA ENGINEERING & BIG DATA
 
 <p>
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
@@ -140,7 +163,7 @@ I don't want to just collect technologies.
 
 `ETL/ELT` • `Dimensional Modelling` • `Star / Snowflake Schemas` • `SCD` • `CDC` • `Data Lineage` • `Data Quality` • `Batch & Streaming` • `Partitioning` • `Clustering` • `Query Tuning`
 
-## 🤖 AI / MACHINE LEARNING
+### 🤖 AI / MACHINE LEARNING
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -155,7 +178,7 @@ I don't want to just collect technologies.
 
 `Classification` • `Computer Vision` • `Object Detection` • `Person Re-Identification` • `Fraud Detection` • `Explainable AI` • `SHAP` • `Feature Engineering` • `Model Evaluation`
 
-## 🧠 GENERATIVE AI / LLM ENGINEERING
+### 🧠 GENERATIVE AI / LLM ENGINEERING
 
 <p>
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -168,14 +191,14 @@ I don't want to just collect technologies.
 
 `RAG Pipelines` • `LLM Orchestration` • `Agentic Workflows` • `Prompt Engineering` • `Embeddings` • `AI Resume Analysis` • `AI Chatbots`
 
-## 🔎 VECTOR DATABASES
+### 🔎 VECTOR DATABASES
 
 <p>
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
 </p>
 
-## 🐳 DEVOPS / PLATFORM ENGINEERING
+### 🐳 DEVOPS / PLATFORM ENGINEERING
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -188,7 +211,7 @@ I don't want to just collect technologies.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🧪 TESTING / QUALITY
+### 🧪 TESTING / QUALITY
 
 <p>
 <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
@@ -198,7 +221,7 @@ I don't want to just collect technologies.
 
 `Unit Testing` • `Integration Testing` • `Regression Testing` • `API Testing` • `Data Quality Checks` • `CI/CD`
 
-## 🛠️ DEVELOPER ARSENAL
+### 🛠️ DEVELOPER ARSENAL
 
 <p>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -212,9 +235,9 @@ I don't want to just collect technologies.
 
 ---
 
-# 🚀 SYSTEMS I'VE BUILT
+## 🚀 SYSTEMS I'VE BUILT
 
-## 🌾 Smart Crop Advisor
+### 🌾 Smart Crop Advisor
 
 > **From crop prediction to deployable cloud infrastructure.**
 
@@ -235,7 +258,7 @@ An end-to-end crop advisory and disease-detection platform combining machine lea
 
 ---
 
-## 📄 AI Resume Studio
+### 📄 AI Resume Studio
 
 > **Resume intelligence built as a complete application rather than a static template.**
 
@@ -245,7 +268,7 @@ AI-powered resume tooling focused on parsing, analysis, generation and job-orien
 
 ---
 
-## 🎓 EduPredict — Student Performance Prediction
+### 🎓 EduPredict — Student Performance Prediction
 
 > **Turning educational data into actionable predictions.**
 
@@ -255,7 +278,7 @@ A full-stack ML application that predicts student performance and presents model
 
 ---
 
-## 🏥 E-Hospitality / Hospital Management System
+### 🏥 E-Hospitality / Hospital Management System
 
 > **Role-based full-stack healthcare workflow.**
 
@@ -265,7 +288,7 @@ Full-stack application featuring authentication, doctor/patient roles, appointme
 
 ---
 
-## 🕵️ Person Re-Identification System
+### 🕵️ Person Re-Identification System
 
 > **Computer vision for identifying the same person across camera views.**
 
@@ -275,7 +298,7 @@ Built around YOLO-based detection and the Market-1501 dataset for person re-iden
 
 ---
 
-## 💳 Explainable Credit & Fraud Analytics
+### 💳 Explainable Credit & Fraud Analytics
 
 > **Machine learning with explanations, not just predictions.**
 
@@ -285,7 +308,7 @@ Financial analytics workflows combining multiple ML models with explainability t
 
 ---
 
-## 📷 Instagram Feed Clone
+### 📷 Instagram Feed Clone
 
 > **A full-stack social-feed implementation built to understand real application workflows.**
 
@@ -295,7 +318,7 @@ Implemented frontend/backend communication, REST APIs, post handling and databas
 
 ---
 
-## ⚡ ElectroMap — EV Charge Finder
+### ⚡ ElectroMap — EV Charge Finder
 
 > **Finding charging infrastructure through a real-time web application.**
 
@@ -305,7 +328,7 @@ A full-stack EV charging discovery application with authentication, station APIs
 
 ---
 
-# 💼 `EXPERIENCE.log`
+## 💼 `EXPERIENCE.log`
 
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
@@ -344,33 +367,43 @@ A full-stack EV charging discovery application with authentication, station APIs
 
 ---
 
-# 🏆 ACHIEVEMENTS UNLOCKED
+## 📊 GitHub Analytics — FIXED
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohannamburu18&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=mohannamburu18&theme=tokyonight&hide_border=false" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohannamburu18&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="140" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohannamburu18&theme=tokyo-night&hide_border=false&area=true" width="95%" />
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
 
 ### 🧠 500+ LEETCODE PROBLEMS
-
 DSA practice across arrays, strings, linked lists, trees, graphs, DP, backtracking and more.
 
 ### 🧩 200+ HACKERRANK PROBLEMS
-
 Strong focus on SQL, problem solving and programming fundamentals.
 
 ### 🎯 100% STRIVER A2Z SHEET
-
 Completed the Striver A2Z DSA roadmap.
 
 ### 🚀 5+ HACKATHONS
-
-Participated in hackathons and innovation challenges including:
-
 `Juspay Hackathon` • `Flipkart GRID` • `TCS Hackathon` • `DAKSH Hackathon` • `University Innovation Challenges`
 
 ### 🌐 OPEN SOURCE
-
 Contributing to real-world open-source engineering, including work around **Spring Boot**.
 
 ---
 
-# 📜 CERTIFICATIONS
+## 📜 CERTIFICATIONS
 
 | Issuer | Certification | Year |
 |---|---|---:|
@@ -383,10 +416,9 @@ Contributing to real-world open-source engineering, including work around **Spri
 | 🔵 Google / Coursera | **Crash Course on Python** | 2026 |
 | 🟩 HackerRank | **SQL — Intermediate** | 2025 |
 
-
 ---
 
-# 🐍 CONTRIBUTION JOURNEY
+## 🐍 CONTRIBUTION JOURNEY
 
 ```text
              YOUR IDEA
@@ -427,116 +459,14 @@ Contributing to real-world open-source engineering, including work around **Spri
           └──────┬──────┘
                  │
                  ▼
-              REPEAT ♻️
-
----
-
-# 🧠 HOW MY BRAIN COMPILES PROBLEMS
-
-```java
-public class Engineer {
-
-    public static void solve(Problem problem) {
-
-        while (!problem.isSolved()) {
-
-            problem.understand();
-
-            Architecture architecture =
-                    design(problem);
-
-            Code solution =
-                    build(architecture);
-
-            solution.test();
-            solution.debug();
-            solution.optimize();
-
-            if (solution.isReliable()) {
-                solution.ship();
-                break;
-            }
-        }
-    }
-}
-```
-
-### `UNDERSTAND → DESIGN → BUILD → TEST → DEBUG → OPTIMIZE → SHIP`
-
----
-
-# 🔬 CURRENT LAB
-
-```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   CURRENTLY GOING DEEPER INTO                 │
-│                                               │
-│   ☕ Spring Boot                               │
-│          ↓                                    │
-│   🏗️ System Design                            │
-│          ↓                                    │
-│   📊 Data Engineering                         │
-│          ↓                                    │
-│   ☁️ Google Cloud                             │
-│          ↓                                    │
-│   🧠 GenAI / RAG / Agentic AI                 │
-│          ↓                                    │
-│   ⚡ Distributed Systems & Backend             │
-│          ↓                                    │
-│   🧩 Advanced DSA                             │
-│                                               │
-└───────────────────────────────────────────────┘
+              REPEAT ♻
 ```
 
 ---
 
-# 🎯 THE MISSION
-
-I'm not trying to become an engineer who simply knows the largest number of frameworks.
-
-I'm working toward becoming the engineer who can take:
-
-```text
-                 "We have a problem."
-                         │
-                         ▼
-                  ┌───────────────┐
-                  │   UNDERSTAND  │
-                  └───────┬───────┘
-                          ▼
-                  ┌───────────────┐
-                  │    DESIGN     │
-                  └───────┬───────┘
-                          ▼
-                  ┌───────────────┐
-                  │     BUILD     │
-                  └───────┬───────┘
-                          ▼
-                  ┌───────────────┐
-                  │     TEST      │
-                  └───────┬───────┘
-                          ▼
-                  ┌───────────────┐
-                  │     SCALE     │
-                  └───────┬───────┘
-                          ▼
-                  ┌───────────────┐
-                  │     SHIP      │
-                  └───────────────┘
-```
-
-### ...and turn ambiguity into a reliable working system.
-
----
-
-# 🤝 LET'S BUILD SOMETHING THAT MATTERS
-
-### I'm interested in opportunities involving
+## 🤝 LET'S BUILD SOMETHING THAT MATTERS
 
 `Software Engineering` • `Backend Engineering` • `Data Engineering` • `Cloud` • `Full-Stack Development` • `AI/ML` • `Generative AI` • `Open Source`
-
-### 📬 Reach Me
 
 <p>
   <a href="mailto:mohannamburu1343@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -549,16 +479,4 @@ I'm working toward becoming the engineer who can take:
 
 <p align="center">
   <b>⚡ BUILD → BREAK → DEBUG → LEARN → SHIP → REPEAT</b>
-</p>
-
-<p align="center">
-  <b>MOHAN KRISHNA NAMBURU</b>
-</p>
-
-<p align="center">
-  <i>"Good engineering is not about knowing everything. It's about learning fast, solving well, and shipping reliably."</i>
-</p>
-
-<p align="center">
-  ⭐ Found something interesting? Explore my repositories.
 </p>
